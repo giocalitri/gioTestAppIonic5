@@ -1,0 +1,7 @@
+{
+  "name": "gioTestAppIonic5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
